@@ -143,33 +143,6 @@ fetch("http://localhost:3000/Products")
         }
         }, 1000);
 
-        x();
-        // setInterval(()=>{
-        //     let timer = document.getElementById('timer'); 
-        //     let time = timer.innerText;
-        
-        //     let tarr = time.split(":");
-
-        //     if((tarr[0] == '00' || tarr[0] == '0') && (tarr[1] == '00' || tarr[1] == '0') && (tarr[2] == '00' || tarr[2] == '0')){
-        //         document.getElementById('so').innerHTML = '';
-        //     }
-        
-        //     if(tarr[2] == '00' || tarr[2] == '0'){
-        //         tarr[2] = 59;
-        //         if(tarr[1] == '00' || tarr[1] == '0'){
-        //             tarr[1] = 59;
-        //             tarr[0] = Number(tarr[0])-1;
-        //         }else{
-        //             tarr[1] = Number(tarr[1])-1;
-        //         }
-        //     }else{
-        //         tarr[2] = Number(tarr[2])-1;       
-        //     }
-
-        
-        //     timer.innerText = tarr.join(':');
-        // },1000);
-
         all.onclick = function(data){
             con.innerHTML = '';
             
