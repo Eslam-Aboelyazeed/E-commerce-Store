@@ -147,6 +147,11 @@ fetch("http://localhost:3000/Products")
             con.innerHTML = '';
             
             for(let i in data){
+
+                if(data[i].specialoffer){
+                    continue;
+                }
+
                 let div = document.createElement('div');
 
                 div.classList = "col-sm-10 col-md-5 col-lg-3 text-center pb-5 ms-2 mt-4 product";
