@@ -1,0 +1,65 @@
+a{
+    color: white;
+}
+
+i{
+    color: white;
+}
+
+i:hover{
+    color: #63a1ff;
+}
+
+a:hover{
+    color: #63a1ff;
+}
+
+.qb:hover{
+    color: #63a1ff;
+}
+
+.cat{
+    color: black;
+}
+
+.cat:hover{
+    color: goldenrod;
+    border-bottom: 2px goldenrod solid;
+}
+
+.lin{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+
+.product{
+    border: 1px black solid;
+    border-radius: 3%;
+}
+
+#nav{
+    background-color: #0d6efd;
+}
+
+.txt{
+    font-weight: bold;
+}
+
+.txt1{
+    font-weight: bold;
+    display: none;
+}
+
+.pname{
+    text-decoration: none;
+    color: black;
+}
+
+#upbtn{
+    display: none;
+}
+
+#drop{
+    display: none;
+}

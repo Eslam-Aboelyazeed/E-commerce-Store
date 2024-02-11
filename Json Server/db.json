@@ -1,0 +1,123 @@
+{
+    "Products":[
+        {
+            "id": 1,
+            "name": "android phone 1",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 300,
+            "type": "android",
+            "imgurl": "../Images/7.jpg",
+            "oldprice": 300,
+            "specialoffer":false,
+            "offerduration":0
+        }
+        ,
+        {
+            "id": 2,
+            "name": "android phone 2",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 350,
+            "type": "android",
+            "imgurl": "../Images/8.jpg",
+            "oldprice": 350,
+            "specialoffer":false,
+            "offerduration":0
+        }
+        ,
+        {
+            "id": 3,
+            "name": "android phone 3",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 250,
+            "type": "android",
+            "imgurl": "../Images/9.jpg",
+            "oldprice": 250,
+            "specialoffer":false,
+            "offerduration":0
+        }
+        ,
+        {
+            "id": 4,
+            "name": "iphone 1",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 600,
+            "type": "iphone",
+            "imgurl": "../Images/10.jpg",
+            "oldprice": 600,
+            "specialoffer":false,
+            "offerduration":0
+        }
+        ,
+        {
+            "id": 5,
+            "name": "iphone 2",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 700,
+            "type": "iphone",
+            "imgurl": "../Images/12.jpg",
+            "oldprice": 700,
+            "specialoffer":false,
+            "offerduration":0
+        }
+        ,
+        {
+            "id": 6,
+            "name": "laptop 1",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 1000,
+            "type": "laptop",
+            "imgurl": "../Images/13.jpg",
+            "oldprice": 1000,
+            "specialoffer":false,
+            "offerduration":0
+        }
+        ,
+        {
+            "id": 7,
+            "name": "laptop 2",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 900,
+            "type": "laptop",
+            "imgurl": "../Images/14.jpg",
+            "oldprice": 900,
+            "specialoffer":false,
+            "offerduration":0
+        }
+        ,
+        {
+            "id": 8,
+            "name": "tablet 1",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 800,
+            "type": "tablet",
+            "imgurl": "../Images/19.jpg",
+            "oldprice": 800,
+            "specialoffer":false,
+            "offerduration":0
+        }
+        ,
+        {
+            "id": 9,
+            "name": "tablet 2",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 850,
+            "type": "tablet",
+            "imgurl": "../Images/20.jpg",
+            "oldprice": 850,
+            "specialoffer":false,
+            "offerduration":0
+        }
+        ,
+        {
+            "id": 10,
+            "name": "iPhone and Smart Watch",
+            "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consectetur deleniti praesentium! Suscipit, ut. Architecto id odit minima tempore provident.",
+            "price": 999,
+            "type": "Special Offer",
+            "imgurl": "../Images/26.png",
+            "oldprice": 1200,
+            "specialoffer":true,
+            "offerduration":"Feb 14, 2024 00:00:00"
+        }
+    ]
+}
